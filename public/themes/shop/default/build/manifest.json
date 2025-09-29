@@ -1,0 +1,273 @@
+{
+    "src/Resources/assets/css/app.css": {
+        "file": "assets/app-b76e0d2c.css",
+        "isEntry": true,
+        "src": "src/Resources/assets/css/app.css"
+    },
+    "src/Resources/assets/fonts/bagisto-shop.woff": {
+        "file": "assets/bagisto-shop-5afe0d07.woff",
+        "src": "src/Resources/assets/fonts/bagisto-shop.woff"
+    },
+    "src/Resources/assets/images/cash-on-delivery.png": {
+        "file": "assets/cash-on-delivery-73061c49.png",
+        "src": "src/Resources/assets/images/cash-on-delivery.png"
+    },
+    "src/Resources/assets/images/default-language.svg": {
+        "file": "assets/default-language-6ef0ef70.svg",
+        "src": "src/Resources/assets/images/default-language.svg"
+    },
+    "src/Resources/assets/images/empty-dwn-product.png": {
+        "file": "assets/empty-dwn-product-3c9202e1.png",
+        "src": "src/Resources/assets/images/empty-dwn-product.png"
+    },
+    "src/Resources/assets/images/favicon.ico": {
+        "file": "assets/favicon-1b7c1fb6.ico",
+        "src": "src/Resources/assets/images/favicon.ico"
+    },
+    "src/Resources/assets/images/hero-image.jpg": {
+        "file": "assets/hero-image-feee3420.jpg",
+        "src": "src/Resources/assets/images/hero-image.jpg"
+    },
+    "src/Resources/assets/images/hero-image.webp": {
+        "file": "assets/hero-image-3170dce6.webp",
+        "src": "src/Resources/assets/images/hero-image.webp"
+    },
+    "src/Resources/assets/images/large-product-placeholder.webp": {
+        "file": "assets/large-product-placeholder-13b8a96b.webp",
+        "src": "src/Resources/assets/images/large-product-placeholder.webp"
+    },
+    "src/Resources/assets/images/logo.svg": {
+        "file": "assets/logo-942157c2.svg",
+        "src": "src/Resources/assets/images/logo.svg"
+    },
+    "src/Resources/assets/images/medium-product-placeholder.webp": {
+        "file": "assets/medium-product-placeholder-3b1a7b7d.webp",
+        "src": "src/Resources/assets/images/medium-product-placeholder.webp"
+    },
+    "src/Resources/assets/images/money-transfer.png": {
+        "file": "assets/money-transfer-115da55a.png",
+        "src": "src/Resources/assets/images/money-transfer.png"
+    },
+    "src/Resources/assets/images/no-address.png": {
+        "file": "assets/no-address-740c7843.png",
+        "src": "src/Resources/assets/images/no-address.png"
+    },
+    "src/Resources/assets/images/paypal.png": {
+        "file": "assets/paypal-df581855.png",
+        "src": "src/Resources/assets/images/paypal.png"
+    },
+    "src/Resources/assets/images/review.png": {
+        "file": "assets/review-342fab8f.png",
+        "src": "src/Resources/assets/images/review.png"
+    },
+    "src/Resources/assets/images/small-product-placeholder.webp": {
+        "file": "assets/small-product-placeholder-64b7f208.webp",
+        "src": "src/Resources/assets/images/small-product-placeholder.webp"
+    },
+    "src/Resources/assets/images/spinner.svg": {
+        "file": "assets/spinner-51c5cf50.svg",
+        "src": "src/Resources/assets/images/spinner.svg"
+    },
+    "src/Resources/assets/images/thank-you.png": {
+        "file": "assets/thank-you-aa4a2b62.png",
+        "src": "src/Resources/assets/images/thank-you.png"
+    },
+    "src/Resources/assets/images/user-placeholder.png": {
+        "file": "assets/user-placeholder-4670a452.png",
+        "src": "src/Resources/assets/images/user-placeholder.png"
+    },
+    "src/Resources/assets/images/wishlist.png": {
+        "file": "assets/wishlist-8c226c7a.png",
+        "src": "src/Resources/assets/images/wishlist.png"
+    },
+    "src/Resources/assets/js/app.css": {
+        "file": "assets/app-05f8acf7.css",
+        "src": "src/Resources/assets/js/app.css"
+    },
+    "src/Resources/assets/js/app.js": {
+        "css": ["assets/app-05f8acf7.css"],
+        "file": "assets/app-a6822c0b.js",
+        "isEntry": true,
+        "src": "src/Resources/assets/js/app.js"
+    },
+    "src/Resources/assets/website/css/vendor.css": {
+        "file": "assets/asset/css/vendor.css",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/css/vendor.css"
+    },
+    "src/Resources/assets/website/css/normalize.css": {
+        "file": "assets/asset/css/normalize.css",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/css/normalize.css"
+    },
+    "src/Resources/assets/website/custom.css": {
+        "file": "assets/asset/custom.css",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/custom.css"
+    },
+    "src/Resources/assets/website/style.css": {
+        "file": "assets/asset/style.css",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/style.css"
+    },
+    "src/Resources/assets/website/images/logo.png": {
+        "file": "assets/asset/images/logo.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/logo.png"
+    },
+    "src/Resources/assets/website/images/png/lp logo.png": {
+        "file": "assets/asset/images/png/lp logo.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/lp logo.png"
+    },
+    "src/Resources/assets/website/js/jquery-1.11.0.min.js": {
+        "file": "assets/asset/js/jquery-1.11.0.min.js",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/js/jquery-1.11.0.min.js"
+    },
+    "src/Resources/assets/website/js/plugins.js": {
+        "file": "assets/asset/js/plugins.js",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/js/plugins.js"
+    },
+    "src/Resources/assets/website/js/script.js": {
+        "file": "assets/asset/js/script.js",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/js/script.js"
+    },
+    "src/Resources/assets/website/images/background-pattern.jpg": {
+        "file": "assets/asset/images/background-pattern.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/background-pattern.jpg"
+    },
+    "src/Resources/assets/website/images/png/banner1.jpg": {
+        "file": "assets/asset/images/png/banner1.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/banner1.jpg"
+    },
+    "src/Resources/assets/website/images/png/banner2.jpg": {
+        "file": "assets/asset/images/png/banner2.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/banner2.jpg"
+    },
+    "src/Resources/assets/website/images/png/banner3.jpg": {
+        "file": "assets/asset/images/png/banner3.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/banner3.jpg"
+    },
+    "src/Resources/assets/website/images/png/banner4.jpg": {
+        "file": "assets/asset/images/png/banner4.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/banner4.jpg"
+    },
+    "src/Resources/assets/website/images/png/banenr5.jpg": {
+        "file": "assets/asset/images/png/banenr5.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/banenr5.jpg"
+    },
+    "src/Resources/assets/website/images/png/banner6.jpg": {
+        "file": "assets/asset/images/png/banner6.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/banner6.jpg"
+    },
+    "src/Resources/assets/website/images/png/banner7.jpg": {
+        "file": "assets/asset/images/png/banner7.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/banner7.jpg"
+    },
+    "src/Resources/assets/website/images/png/banner8.jpg": {
+        "file": "assets/asset/images/png/banner8.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/banner8.jpg"
+    },
+    "src/Resources/assets/website/images/png/whatsapp_icon.png": {
+        "file": "assets/asset/images/png/whatsapp_icon.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/whatsapp_icon.png"
+    },
+    "src/Resources/assets/website/images/product-thumb-11.jpg": {
+        "file": "assets/asset/images/product-thumb-11.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/product-thumb-11.jpg"
+    },
+    "src/Resources/assets/website/images/product-thumb-12.jpg": {
+        "file": "assets/asset/images/product-thumb-12.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/product-thumb-12.jpg"
+    },
+    "src/Resources/assets/website/images/product-thumb-13.jpg": {
+        "file": "assets/asset/images/product-thumb-13.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/product-thumb-13.jpg"
+    },
+    "src/Resources/assets/website/images/product-thumb-14.jpg": {
+        "file": "assets/asset/images/product-thumb-14.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/product-thumb-14.jpg"
+    },
+    "src/Resources/assets/website/images/png/bg_img.png": {
+        "file": "assets/asset/images/png/bg_img.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/bg_img.png"
+    },
+    "src/Resources/assets/website/images/png/product_img.png": {
+        "file": "assets/asset/images/png/product_img.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/product_img.png"
+    },
+    "src/Resources/assets/website/images/png/tag.png": {
+        "file": "assets/asset/images/png/tag.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/tag.png"
+    },
+    "src/Resources/assets/website/images/png/refund.png": {
+        "file": "assets/asset/images/png/refund.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/refund.png"
+    },
+    "src/Resources/assets/website/images/png/free_delivery.png": {
+        "file": "assets/asset/images/png/free_delivery.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/free_delivery.png"
+    },
+    "src/Resources/assets/website/images/png/heroBanner.png": {
+        "file": "assets/asset/images/png/heroBanner.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/heroBanner.png"
+    },
+    "src/Resources/assets/website/images/png/category_product.png": {
+        "file": "assets/asset/images/png/category_product.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/category_product.png"
+    },
+    "src/Resources/assets/website/images/png/amazon.png": {
+        "file": "assets/asset/images/png/amazon.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/amazon.png"
+    },
+    "src/Resources/assets/website/images/png/flipcart.png": {
+        "file": "assets/asset/images/png/flipcart.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/flipcart.png"
+    },
+    "src/Resources/assets/website/images/png/swigy.png": {
+        "file": "assets/asset/images/png/swigy.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/swigy.png"
+    },
+    "src/Resources/assets/website/images/png/blinkit.png": {
+        "file": "assets/asset/images/png/blinkit.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/blinkit.png"
+    },
+    "src/Resources/assets/website/images/png/zepto.png": {
+        "file": "assets/asset/images/png/zepto.png",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/png/zepto.png"
+    },
+    "src/Resources/assets/website/images/blog-banner.jpg": {
+        "file": "assets/asset/images/blog-banner.jpg",
+        "isEntry": true,
+        "src": "src/Resources/assets/website/images/blog-banner.jpg"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "corewave/subscription",
+    "autoload": {
+        "psr-4": {
+            "Corewave\\Subscription\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Corewave\\Subscription\\Providers\\SubscriptionServiceProvider"
+            ]
+        }
+    }
+}
