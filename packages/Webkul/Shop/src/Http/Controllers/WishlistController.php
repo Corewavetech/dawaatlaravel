@@ -23,16 +23,16 @@ class WishlistController extends Controller
      */
 
     public function index()
-    {               
+    {
 
-        $customer = auth('customer')->user();        
+        $customer = auth('customer')->user();
 
         if($customer){
-            
+
             $items = $this->wishlistRepository
                 ->where([
                     'channel_id'  => core()->getCurrentChannel()->id,
-                    // 'customer_id' => ,
+                     'customer_id' => $customer->id,
                 ])
                 ->count();
 
