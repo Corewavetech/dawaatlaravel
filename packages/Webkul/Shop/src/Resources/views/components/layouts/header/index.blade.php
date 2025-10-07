@@ -140,11 +140,13 @@
                                             <a href="{{ route('shop.api.categories.all') }}"
                                                 class="nav-link">Product</a>
                                         </li>
-                                        <li class="nav-item hover-underline">
+                                        <li
+                                            class="nav-item {{ request()->is('*subscriptions*') ? 'active' : '' }} hover-underline">
                                             <a href="{{ route('shop.subscriptions.plans.index') }}"
                                                 class="nav-link">Subscription</a>
                                         </li>
-                                        <li class="nav-item hover-underline">
+                                        <li
+                                            class="nav-item  {{ request()->is('*blogs*') ? 'active' : '' }} hover-underline">
                                             <a href="{{ route('shop.blogs.index') }}" class="nav-link">Blog</a>
                                         </li>
 
