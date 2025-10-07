@@ -1077,7 +1077,7 @@ a.forum-item-title:hover {
 .gray-bg {
     background-color: #f5f5f5;
 }
-/* Blog
+/* Blog 
 ---------------------*/
 
 .blog-grid {
@@ -1468,3 +1468,32 @@ img {
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
 }
+footer .widget-title {
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+footer .nav-link {
+  padding: 2px 0;
+  color: #bbb;
+}
+
+footer .nav-link:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.newsletter-form input {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .newsletter-form {
+    flex-direction: column;
+  }
+  .newsletter-form button {
+    width: 100%;
+  }
+}
+
+
